@@ -32,7 +32,7 @@
 
   <li><strong>Interactive Visual Analytics and Dashboard</strong>
     <ul>
-      <li>Plotly Dash</li>
+      <li>Web-Based Dashboard with Plotly Dash</li>
       <li>Interactive Maps with Folium</li>
     </ul>
   </li>
