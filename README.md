@@ -5,7 +5,7 @@
 
 # Executive Summary
 
-<h1>Summary of Methodologies</h1>
+<h3>Summary of Methodologies</h3>
 
 <ul>
   <li><strong>Data Collection</strong>
@@ -44,7 +44,7 @@
   </li>
 </ul>
 
-<h1>Summary of Results</h1>
+<h3>Summary of Results</h3>
 
 <ul>
   <li><strong>Exploratory Data Analysis Insights</strong></li>
