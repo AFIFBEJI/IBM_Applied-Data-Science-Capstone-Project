@@ -1,4 +1,7 @@
-# IBM_Applied-Data-Science-Capstone-Project
+<div style="text-align: center;">
+  <h1>IBM_Applied-Data-Science-Capstone-Project</h1>
+</div>
+
 
 # Executive Summary
 
