@@ -39,7 +39,7 @@
 
   <li><strong>Predictive Analysis (Classification)</strong>
     <ul>
-      <li>Basic ML Models</li>
+      <li>Basic Supervised Classification ML Models</li>
     </ul>
   </li>
 </ul>
@@ -51,7 +51,7 @@
   <li><strong>Interactive Visuals, Dashboard, and Maps</strong></li>
   <li><strong>Predictive Analysis Findings</strong>
     <ul>
-      <li>Best ML Model</li>
+      <li>Best Supervised Classification ML Model performance</li>
     </ul>
   </li>
 </ul>
