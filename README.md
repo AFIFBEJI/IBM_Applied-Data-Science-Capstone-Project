@@ -57,4 +57,28 @@
 </ul>
 
 
+# Overview
+
+<ul>
+  <li><strong>Project Background and Context:</strong>
+    <ul>
+      <li>SpaceX revolutionized space travel with reusable first-stage rockets, especially the Falcon 9.</li>
+      <li>The Falcon 9's first stage is designed to return to Earth for a controlled landing.</li>
+      <li>Historical data on Falcon 9 landings is available through the SpaceX API and via web scraping (Wikipedia).</li>
+      <li>This project examines the data to identify factors influencing successful landings and predict whether SpaceX will reuse the first stage and determine the approximate price of a launch.</li>
+    </ul>
+  </li>
+  
+  <li><strong>Problems We Want to Find Answers To:</strong>
+    <ul>
+      <li>What factors and features could affect the success or failure of Falcon 9 landings?</li>
+      <li>How have landing success rates evolved over the years?</li>
+      <li>Which launch sites or environmental conditions are most favorable for landings?</li>
+      <li>Can we identify patterns in data that explain landing successes or failures?</li>
+      <li>Can we predict whether a Falcon 9 first stage will successfully land and estimate the cost of a launch?</li>
+    </ul>
+  </li>
+</ul>
+
+
 
